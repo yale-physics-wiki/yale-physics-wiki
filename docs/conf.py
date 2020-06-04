@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'wiki-test'
-copyright = '2020, Lee Hagaman'
-author = 'Lee Hagaman'
+project = 'yale-physics-wiki'
+copyright = '2020'
+author = 'Yale Physics Graduate Students'
 
 # The full version, including alpha/beta/rc tags
 release = '0.1'
