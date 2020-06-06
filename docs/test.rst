@@ -5,7 +5,10 @@ Test
 
 This is just a test. 
 
-latex is inserted by :math:`dasd`
+in line latex is inserted by :math:`d=2`
+next line latex is inserted by .. math:: 
+    x=2
+umm
 
 
 
