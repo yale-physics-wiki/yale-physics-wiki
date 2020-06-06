@@ -1,9 +1,11 @@
-.. _tensors:
+.. test:
 
 Test
 ====
 
-This is just a test
+This is just a test. 
+
+latex is inserted by ..math:: asd
 
 
 
