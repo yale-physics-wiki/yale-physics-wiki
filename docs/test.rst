@@ -14,9 +14,10 @@ Another link: :ref:`tensors`
 
 in line latex is inserted by :math:`d=2`
 next line latex is inserted by 
+
 .. math::
 
-	v=v^x \hat{x} + v^y \hat{y} + v^z \hat{z}
+	d=2
 
 linking is done by :ref:`tensors`
 
