@@ -5,7 +5,7 @@ Test
 
 This is just a test. 
 
-latex is inserted by :math::`dasd`
+latex is inserted by :math:`dasd`
 
 
 
