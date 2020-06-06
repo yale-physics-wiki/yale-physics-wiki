@@ -7,8 +7,9 @@ Yale Physics Wiki
 =====================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
    intro
    tensors
+   test
 
