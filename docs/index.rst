@@ -11,4 +11,5 @@ Yale Physics Wiki
 
    intro
    tensors
+   test
 
