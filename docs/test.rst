@@ -14,7 +14,6 @@ Another link: :ref:`tensors`
 
 in line latex is inserted by :math:`d=2`
 next line latex is inserted by 
-
 .. math::
 
 	v=v^x \hat{x} + v^y \hat{y} + v^z \hat{z}
